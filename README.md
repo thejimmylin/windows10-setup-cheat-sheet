@@ -1,6 +1,8 @@
 # windows10-setup-cheat-sheet
 The setup cheat sheet after windows 10 installation
 
+## Explorer
+
 - 資料夾選項 > 顯示附檔名
 - 檔案總管 > 把 C:\Users\user 訂選到快速存取
 - 檔案總管 > 資料夾選項 > 開啟檔案總管以 > 本機器
@@ -8,21 +10,15 @@ The setup cheat sheet after windows 10 installation
 - 檔案總管 > 資料夾選項 > 一般 > 在快速存取中顯示經常使用的資料夾 > 取消
 - 顯示附檔名、顯示隱藏的檔案
 
-2. Create directory "Installed Software" and put all the installer in it.
-3. edge < download chrome
-4. set chrome as default browser
-5. Uninstall
+## Browser
 
-asus bussiness manager
-asus gift box
-asus gift box service
-asus hello
-asus live update
-audio wizard
+- Create directory "Installed Software" and put all the installer in it.
+- edge > download chrome
+- set chrome as default browser
 
-mcafee interface security
-mcafee personal security
-mcafee webadvisor
+## Uninstall
+
+- One drive
 
 6. 取消訂選工作列上的 Edge, MS store, Mail, Asus giftbox
 7. 訂選 Chrome 至工具列
