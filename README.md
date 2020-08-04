@@ -1,5 +1,5 @@
 # windows10-setup-cheat-sheet
-The setup cheat sheet after windows 10 installation
+### The setup cheat sheet after windows 10 installation
 
 ## Explorer
 
@@ -34,14 +34,21 @@ The setup cheat sheet after windows 10 installation
 ## Install Chocolatey
 
 - Install chocolatey with command:
-
+```
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
 
 ## Install all the shell-related things by chocolatey
 
-- Install python3.8.2 with choco command: choco install python3 --version=3.8.2
+- Install python3.8.2 with choco command:
+```
+choco install python3 --version=3.8.2
+```
 
-- Install git2.27.0 with choco command: choco install git
+- Install git2.27.0 with choco command:
+```
+choco install git
+```
 
 ## Install other GUI things
 
@@ -62,6 +69,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 - 電源設定 > 永不休眠
 
 - Chrome > 設定 > 密碼 > 顯示儲存密碼的選項 > X
+
+- Chrome > 設定 > 翻譯 > 翻譯語言 > X
 
 
 
