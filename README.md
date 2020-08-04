@@ -18,46 +18,50 @@ The setup cheat sheet after windows 10 installation
 
 ## Uninstall
 
-- One drive
+- OneDrive
 
-6. 取消訂選工作列上的 Edge, MS store, Mail, Asus giftbox
-7. 訂選 Chrome 至工具列
-8. 工具列 > 搜尋 > 顯示搜尋圖片
-9. Delete Edge icon on desktop
-10. Install FileZilla Client
-11. Powershell > execute as admin > Set-ExecutionPolicy RemoteSigned > All
-12. Install chocolatey with command:
+## Appearance
+
+- 工具列 > 工作檢視 > 不顯示
+- 工具列 > 搜尋 > 顯示搜尋圖片
+- 取消訂選工作列上的所有東西
+- 訂選檔案總管、Chrome
+
+## Shell
+
+- Powershell > execute as admin > Set-ExecutionPolicy RemoteSigned > All
+
+## Install Chocolatey
+
+- Install chocolatey with command:
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-13. Install python3.8.2 with choco command:
+## Install all the shell-related things by chocolatey
 
-choco install python3 --version=3.8.2
+- Install python3.8.2 with choco command: choco install python3 --version=3.8.2
 
-14. Install git2.27.0 with choco command:
+- Install git2.27.0 with choco command: choco install git
 
-choco install git
+## Install other GUI things
 
-14. Download VSCode and install it from its website
+- Download VSCode and install it from its website
 
-15. Download Github desktop and install it from its website
+- Download Github desktop and install it from its website
 
-16. 右下角輸入法 > 右鍵 > 內容 > 一般設定 > 預設輸入模式 > 英數模式
+## Appearance & preference
 
-17. 資源回收桶 > 右鍵 > 內容 > 顯示確認刪除的對話方塊
+- 右下角輸入法 > 右鍵 > 內容 > 一般設定 > 預設輸入模式 > 英數模式
 
-18. Chrome > 設定 > 密碼 > 顯示儲存密碼的選項 > X
+- 資源回收桶 > 右鍵 > 內容 > 顯示確認刪除的對話方塊
 
-19. 個人化 > 背景 > 純色 > 更多 > #2b3137
+- 個人化 > 背景 > 純色 > 更多 > #2b3137
 
-20. 個人化 > 色彩 > 輔色 > 更多 > #808080
+- 個人化 > 色彩 > 輔色 > 更多 > #808080
 
-21. 右下角 > onedrive > 右鍵 > 設定 > 一般 > 在我登入windows時自動啟動onedrive > 取消勾選
+- 電源設定 > 永不休眠
 
-22. 右下角 > onedrive > 關閉
+- Chrome > 設定 > 密碼 > 顯示儲存密碼的選項 > X
 
-23. 工具列 > 顯示工作檢視 > 取消
 
-28. 設定 > 新增/移除應用程式與功能 > 移除 onedrive
 
-29. 電源設定 > 永不 > 永不
