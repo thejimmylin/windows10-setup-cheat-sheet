@@ -1,7 +1,13 @@
 # windows10-setup-cheat-sheet
 The setup cheat sheet after windows 10 installation
 
-1. 資料夾選項 > 顯示附檔名
+- 資料夾選項 > 顯示附檔名
+- 檔案總管 > 把 C:\Users\user 訂選到快速存取
+- 檔案總管 > 資料夾選項 > 開啟檔案總管以 > 本機器
+- 檔案總管 > 資料夾選項 > 一般 > 在快速存取中顯示最近使用的檔案 > 取消
+- 檔案總管 > 資料夾選項 > 一般 > 在快速存取中顯示經常使用的資料夾 > 取消
+- 顯示附檔名、顯示隱藏的檔案
+
 2. Create directory "Installed Software" and put all the installer in it.
 3. edge < download chrome
 4. set chrome as default browser
@@ -55,14 +61,6 @@ choco install git
 22. 右下角 > onedrive > 關閉
 
 23. 工具列 > 顯示工作檢視 > 取消
-
-24. 檔案總管 > 把 C:\Users\user 訂選到快速存取
-
-25. 檔案總管 > 資料夾選項 > 開啟檔案總管以 > 本機器
-
-26. 檔案總管 > 資料夾選項 > 一般 > 在快速存取中顯示最近使用的檔案 > 取消
-
-27. 檔案總管 > 資料夾選項 > 一般 > 在快速存取中顯示經常使用的資料夾 > 取消
 
 28. 設定 > 新增/移除應用程式與功能 > 移除 onedrive
 
