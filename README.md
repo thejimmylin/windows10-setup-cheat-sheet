@@ -1,4 +1,4 @@
-# windows10-setup-cheat-sheet
+# Windows 10 setup cheat sheet
 ### The setup cheat sheet after windows 10 installation
 
 ## Explorer
@@ -71,6 +71,10 @@ choco install git
 - Chrome > 設定 > 密碼 > 顯示儲存密碼的選項 > X
 
 - Chrome > 設定 > 翻譯 > 翻譯語言 > X
+
+## Auto update
+
+- win+R > gpedit > 電腦設定 > 系統管理範本 > Windows元件 > Windows Update > 不包含 Windows 更新的驅動程式 > 已啟用 > 確定
 
 
 
