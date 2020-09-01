@@ -1,5 +1,7 @@
 # Windows 10 setup cheat sheet
 
+整理 Windows 10 重灌後的常見設定
+
 ## Explorer
 
 - 資料夾選項 > 顯示附檔名
