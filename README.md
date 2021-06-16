@@ -2,6 +2,10 @@
 
 整理 Windows 10 重灌後的常見設定
 
+## Disable Windows update
+
+- Win + R > gpedit.msc > windows > windows 元件 > windows update > 設定 windows update > 已停用
+
 ## Explorer
 
 - 資料夾選項 > 顯示附檔名
